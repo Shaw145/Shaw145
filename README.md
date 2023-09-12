@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/78732037/236674157-3263c4af-23ca-486a-9d1d-97908d4ff95c.png)
+![Green Professional Gamer LinkedIn Banner](https://github.com/Shaw145/Shaw145/assets/78732037/f73bd40f-3bb5-4bf4-bb3d-2fabf5eb38b9)
 
 <h1 align="center">Hello 👋, I'm Suman Shaw</h1>
 <h3 align="center">A 'Wanna be Good' software engineer from India</h3>
@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaw145&show_icons=true&locale=en" alt="shaw145" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaw145&" alt="shaw145" /></p>
+
