@@ -29,4 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaw145&show_icons=true&locale=en" alt="shaw145" /></p>
 
-[![An image of @shaw145's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaw145)](https://holopin.io/@shaw145)
