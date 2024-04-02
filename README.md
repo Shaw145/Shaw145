@@ -1,4 +1,4 @@
-![Green Professional Gamer LinkedIn Banner](https://github.com/Shaw145/Shaw145/assets/78732037/f73bd40f-3bb5-4bf4-bb3d-2fabf5eb38b9)
+
 
 <h1 align="center">Hello 👋, I'm Suman Shaw</h1>
 <h3 align="center">A 'Wanna be Good' software engineer from India</h3>
