@@ -61,7 +61,30 @@ me.say_hi()
   </tr>
 </table>
 
+
 ---
+
+
+### 💼 Work Experience
+
+<div align="center">
+
+| | 🏢 Company | 💼 Role | 🗓️ Duration |
+|:---:|:---|:---|:---:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/TCS_Logo_%28cropped%29.jpg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" width="60"/> | **Tata Consultancy Services** | System Engineer | Apr '26 - Current |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LTM_Coral.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" width="60"/> | **LTM (formerly LTIMindtree)** | Software Engineer | Jul '25 - Mar '26 |
+
+</div>
+
+<div align="center">
+
+
+</div>
+
+
+---
+
+
 
 ### 🛠️ Languages & Technologies
 
